@@ -1,2 +1,2 @@
 # codeigniter-docker
-codegigniter with docker
+codeigniter with docker
